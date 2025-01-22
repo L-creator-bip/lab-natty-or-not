@@ -34,7 +34,7 @@ Foram realizadas diferentes tentativas para geração de texto com sucessivos aj
 
 ## 🚀 Resultados
 Confecção de e-book  
-- [O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas](https://o-impacto-dos-diamantes--avzlwxx.gamma.site/)
+- [O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas](#https://o-impacto-dos-diamantes--avzlwxx.gamma.site/)
    
 
 ## 💭 Reflexão (Opcional)
