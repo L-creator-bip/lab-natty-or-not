@@ -19,7 +19,7 @@ Olá pessoal, Sou Lais.  Inspirada na hype _"Natty or Not"_ do fisiculturismo, c
 
 ### Template
 
-```markdown
+```markdown            
 # Título: O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas
 
 ## 📒 Descrição
@@ -34,7 +34,8 @@ Foram realizadas diferentes tentativas para geração de texto com sucessivos aj
 
 ## 🚀 Resultados
 Confecção de e-book  
-- [O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas](#https://o-impacto-dos-diamantes--avzlwxx.gamma.site/)
+- [O-Impacto-dos-Diamantes-Artificiais-no-Mercado-de-Gemas-Preciosas (2).pdf](https://github.com/user-attachments/files/18511356/O-Impacto-dos-Diamantes-Artificiais-no-Mercado-de-Gemas-Preciosas.2.pdf)
+
    
 
 ## 💭 Reflexão (Opcional)
