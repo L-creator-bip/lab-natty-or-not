@@ -4,18 +4,18 @@
 
 > 
 
-Olá pessoal, Sou Lais.  Inspirado na hype _"Natty or Not"_ do fisiculturismo, apresento meu projeto.
+Olá pessoal, Sou Lais.  Inspirada na hype _"Natty or Not"_ do fisiculturismo, criei e apresento projeto com uso de IAs.
 
 ## 🎯 
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilizei tecnologias para criar conteúdos de meu interesse, combinando textos e uma imagem.
+1. **Explorar IAs Generativas**: Utilizei tecnologias para criar experimentalmente conteúdo de meu interesse, combinando textos e uma imagem.
 1. **Potfólio de Projetos**:
     1. Fiz o "fork", conforme orientado, criei uma cópia neste GitHub;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+    2. Editei o README com os detalhes do projeto, siguindo o [Template](#template) disponibilizado;
+    3. Submeterei o link deste repositório na plataforma da DIO. 
+1. **Efeito de Rede**: Posteriormente compartilharei conforme orientado.
 
 ### Template
 
