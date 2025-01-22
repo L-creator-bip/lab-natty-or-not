@@ -33,10 +33,10 @@ IAs Generativas: [copilot microsoft](https://copilot.microsoft.com/); [Gemini go
 Foram realizadas diferentes tentavivas para geração de texto com consequentes ajustes de prompt para observar os resultados. Posteriormente o texto foi formatado e realizada pesquisa de uma figura a ser adicionada.
 
 ## 🚀 Resultados
-Montagem de e-book (cards)
+Confecção de e-book (cards)
 
 ## 💭 Reflexão (Opcional)
-Como primeiro contato sistematizado com IA foi fantastico. Foi descortinado um panorâma totalmente novo, surpreendente, cheio de grandes possibilidades a explorar.
+Como primeiro contato sistematizado com IA generativa foi fantastico. Foi descortinado um panorâma totalmente novo, surpreendente, cheio de grandes possibilidades e ferramentas a explorar.
 ```
 
 ### Exemplos e Insigths
