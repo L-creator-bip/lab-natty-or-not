@@ -33,7 +33,7 @@ IAs Generativas: [copilot microsoft](https://copilot.microsoft.com/); [Gemini go
 Foram realizadas diferentes tentativas para geração de texto com sucessivos ajustes de prompt para observar os resultados. Posteriormente o texto foi formatado e realizada pesquisa de uma figura a ser adicionada.
 
 ## 🚀 Resultados
-Confecção de e-book  [Gamma] (https://o-impacto-dos-diamantes--avzlwxx.gamma.site/)    
+Confecção de e-book  [O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas](https://o-impacto-dos-diamantes--avzlwxx.gamma.site/)    
 
 ## 💭 Reflexão (Opcional)
 Como primeiro contato sistematizado com IA generativa foi fantastico. Foi descortinado um panorâma totalmente novo, surpreendente, cheio de grandes possibilidades e ferramentas a explorar.
