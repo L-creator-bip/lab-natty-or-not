@@ -26,13 +26,14 @@ Olá pessoal, Sou Lais.  Inspirado na hype _"Natty or Not"_ do fisiculturismo, a
 Criação de texto experimental sobre assunto de interesse
 
 ## 🤖 Tecnologias Utilizadas
-IAs Generativas: [copilot microsoft](https://copilot.microsoft.com/); [Gemini google](https://gemini.google.com/); [Gamma] (https://gamma.app) e [Fotor](https://www.fotor.com) 
+IAs Generativas: [copilot microsoft](https://copilot.microsoft.com/); [Gemini google](https://gemini.google.com/);
+[Gamma] (https://gamma.app) e [Fotor](https://www.fotor.com) 
 
 ## 🧐 Processo de Criação
 Foram realizadas diferentes tentavivas para geração de texto com consequentes ajustes de prompt para observar os resultados. Posteriormente o texto foi formatado e realizada pesquisa de uma figura a ser adicionada.
 
 ## 🚀 Resultados
-
+Montagem de e-book (cards)
 
 ## 💭 Reflexão (Opcional)
 Como primeiro contato sistematizado com IA foi fantastico. Foi descortinado um panorâma totalmente novo, surpreendente, cheio de grandes possibilidades a explorar.
