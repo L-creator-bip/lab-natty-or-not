@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# O Impacto dos Diamantes Artificiais no Mercado de Gemas Preciosas
 
 ## 🚀 Introdução
 
