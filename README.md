@@ -30,7 +30,7 @@ IAs Generativas: [copilot microsoft](https://copilot.microsoft.com/); [Gemini go
 [Gamma] (https://gamma.app) e [Fotor](https://www.fotor.com) 
 
 ## 🧐 Processo de Criação
-Foram realizadas diferentes tentavivas para geração de texto com consequentes ajustes de prompt para observar os resultados. Posteriormente o texto foi formatado e realizada pesquisa de uma figura a ser adicionada.
+Foram realizadas diferentes tentativas para geração de texto com sucessivos ajustes de prompt para observar os resultados. Posteriormente o texto foi formatado e realizada pesquisa de uma figura a ser adicionada.
 
 ## 🚀 Resultados
 Confecção de e-book (cards)
